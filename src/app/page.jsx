@@ -125,35 +125,35 @@ export default function Home() {
         <a className="w-[250px]">
           <Image src={logo} alt="Wakefast logo" />
         </a>
-        <nav className="space-x-10 flex">
+        <nav className="space-x-8 flex">
           <a href="#">
             Order
-            <Image src={underline1} alt=""/>
+            <Image src={underline1} alt="" />
           </a>
           <a href="#">
             About
-            <Image src={underline2} alt=""/>
+            <Image src={underline2} alt="" />
           </a>
           <a href="#">
             Contact
-            <Image src={underline3} alt=""/>
+            <Image src={underline3} alt="" />
           </a>
         </nav>
       </header>
 
-      <section className="bg-[#f2dd00] rounded-br-full">
+      <section className="bg-[#f2dd00]">
         <figure className="max-w-[700px] mx-auto">
           <Image src={image1} className="rounded-3xl" />
           <figcaption className="drawing">
             <Image src={drawing11} alt="" />
-            <Image src={drawing12} alt=""/>
-            <Image src={drawing13} alt=""/>
+            <Image src={drawing12} alt="" />
+            <Image src={drawing13} alt="" />
           </figcaption>
         </figure>
       </section>
 
       <section>
-        <h2 className="text-[96px] mx-auto text-center max-w-[10em]">
+        <h2 className="text-4xl sm:text-[96px] leading-[1.25] mx-auto text-center max-w-[10em]">
           We&apos;re there when you get up. Real fast!
         </h2>
       </section>
@@ -162,26 +162,26 @@ export default function Home() {
         <figure className="max-w-[700px] mx-auto">
           <Image src={image2} className="rounded-3xl" />
           <figcaption className="drawing">
-            <Image src={drawing21} alt=""/>
-            <Image src={drawing22} alt=""/>
-            <Image src={drawing23} alt=""/>
+            <Image src={drawing21} alt="" />
+            <Image src={drawing22} alt="" />
+            <Image src={drawing23} alt="" />
           </figcaption>
         </figure>
       </section>
 
       <section>
-        <h2 className="text-[96px] mx-auto text-center max-w-[10em]">
+        <h2 className="text-4xl sm:text-[96px] leading-[1.25] mx-auto text-center max-w-[10em]">
           Order by 9pm to get next-morning delivery.
         </h2>
       </section>
 
-      <section className="bg-[#bee3f8] rounded-tl-full">
+      <section className="bg-[#bee3f8]">
         <figure className="max-w-[700px] mx-auto">
           <Image src={image3} className="rounded-3xl" />
           <figcaption className="drawing">
-            <Image src={drawing31} alt=""/>
-            <Image src={drawing32} alt=""/>
-            <Image src={drawing33} alt=""/>
+            <Image src={drawing31} alt="" />
+            <Image src={drawing32} alt="" />
+            <Image src={drawing33} alt="" />
           </figcaption>
         </figure>
       </section>
