@@ -141,7 +141,7 @@ export default function Home() {
         </nav>
       </header>
 
-      <section className="bg-[#f2dd00] rounded-b-[50%]">
+      <section className="bg-[#f2dd00] rounded-br-full">
         <figure className="max-w-[700px] mx-auto">
           <Image src={image1} className="rounded-3xl" />
           <figcaption className="drawing">
@@ -158,7 +158,7 @@ export default function Home() {
         </h2>
       </section>
 
-      <section className="middle-pic bg-[#f09291] rounded-e-full">
+      <section className="middle-pic bg-[#f09291]">
         <figure className="max-w-[700px] mx-auto">
           <Image src={image2} className="rounded-3xl" />
           <figcaption className="drawing">
@@ -175,7 +175,7 @@ export default function Home() {
         </h2>
       </section>
 
-      <section className="bg-[#bee3f8] rounded-s-full">
+      <section className="bg-[#bee3f8] rounded-tl-full">
         <figure className="max-w-[700px] mx-auto">
           <Image src={image3} className="rounded-3xl" />
           <figcaption className="drawing">
