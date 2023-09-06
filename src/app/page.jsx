@@ -128,15 +128,15 @@ export default function Home() {
         <nav className="space-x-10 flex">
           <a href="#">
             Order
-            <Image src={underline1} />
+            <Image src={underline1} alt=""/>
           </a>
           <a href="#">
             About
-            <Image src={underline2} />
+            <Image src={underline2} alt=""/>
           </a>
           <a href="#">
             Contact
-            <Image src={underline3} />
+            <Image src={underline3} alt=""/>
           </a>
         </nav>
       </header>
@@ -145,9 +145,9 @@ export default function Home() {
         <figure className="max-w-[700px] mx-auto">
           <Image src={image1} className="rounded-3xl" />
           <figcaption className="drawing">
-            <Image src={drawing11} />
-            <Image src={drawing12} />
-            <Image src={drawing13} />
+            <Image src={drawing11} alt="" />
+            <Image src={drawing12} alt=""/>
+            <Image src={drawing13} alt=""/>
           </figcaption>
         </figure>
       </section>
@@ -162,9 +162,9 @@ export default function Home() {
         <figure className="max-w-[700px] mx-auto">
           <Image src={image2} className="rounded-3xl" />
           <figcaption className="drawing">
-            <Image src={drawing21} />
-            <Image src={drawing22} />
-            <Image src={drawing23} />
+            <Image src={drawing21} alt=""/>
+            <Image src={drawing22} alt=""/>
+            <Image src={drawing23} alt=""/>
           </figcaption>
         </figure>
       </section>
@@ -179,9 +179,9 @@ export default function Home() {
         <figure className="max-w-[700px] mx-auto">
           <Image src={image3} className="rounded-3xl" />
           <figcaption className="drawing">
-            <Image src={drawing31} />
-            <Image src={drawing32} />
-            <Image src={drawing33} />
+            <Image src={drawing31} alt=""/>
+            <Image src={drawing32} alt=""/>
+            <Image src={drawing33} alt=""/>
           </figcaption>
         </figure>
       </section>
