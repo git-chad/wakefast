@@ -1,0 +1,25 @@
+Demo:
+https://wakefast.superhi.com/
+
+Colors:
+Yellow: #f2dd00
+Salmon: #f09291
+Baby blue: #bee3f8
+White: #ffffff
+Black: #000000
+
+Typography:
+Pacifico
+https://fonts.google.com/specimen/Pacifico
+
+Typography Code
+@import url('https://fonts.googleapis.com/css2?family=Pacifico&display=swap');
+
+
+Content:
+Order
+About
+Contact
+
+We’re there when you get up. Real fast!
+Order by 9pm to get next-morning delivery.
