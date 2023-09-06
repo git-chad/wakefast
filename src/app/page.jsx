@@ -154,7 +154,7 @@ export default function Home() {
 
       <section>
         <h2 className="text-[96px] mx-auto text-center max-w-[10em]">
-          We're there when you get up. Real fast!
+          We&apos;re there when you get up. Real fast!
         </h2>
       </section>
 
